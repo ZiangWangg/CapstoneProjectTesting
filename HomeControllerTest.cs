@@ -15,7 +15,7 @@ namespace CapstoneProjectTesting
 	{
 
 		[Fact]
-		public void AddAppointmentTest()
+		public void AddAppointmentTest()  //
 		{
 			//Arrange
 			var controller = new HomeController();
